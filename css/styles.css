@@ -10,7 +10,7 @@ a {
 p {
   font-family: 'Playfair Display', serif;
   font-size: 1.5rem;
-  color: #000000;
+  color: #fff;
 }
 
 #title {
@@ -63,8 +63,8 @@ p {
 
 #about {
   text-align: center;
-  background-color: #fff;
-  color: #000000;
+  background-color: #ce8080;
+  color: #fff;
 }
 .heading {
   font-size: 4rem;
@@ -75,8 +75,8 @@ p {
   color: #000000;
 }
 #features {
-  background-color: #fff;
-  color: #000000;
+  background-color: #ce8080;
+  color: #fff;
 }
 .col-md-3 {
   margin: 10px auto;
@@ -97,7 +97,7 @@ p {
 }
 #gallery {
   text-align: center;
-  background-color: #000000;
+  background-color: #ce8080;
   color: #fff;
 
 }
@@ -116,8 +116,8 @@ p {
 }
 #pricing {
   text-align: center;
-  background-color: #fff;
-  color: #CE8080;
+  background-color: #ce8080;
+  color: #fff;
 }
 #mont {
   font-family: 'Playfair Display', serif;
@@ -131,8 +131,8 @@ p {
 }
 
 #contact {
-  background-color: #fff;
-  color: #CE8080;
+  background-color: #ce8080;
+  color: #fff;
 }
 .mani-pedi {
   border: 2px solid #fff;
@@ -193,14 +193,14 @@ padding: 2% 7%;
   line-height: 50px;
   color: white;
   font-size: 22px;
-  color: #ff0000;
+  color: #ce8080;
 }
 .btnHover {
   width: 400px;
   height: 120px;
   background: none;
   border: 4px solid;
-  color: #ff0000;
+  color: #fff;
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;
@@ -214,7 +214,7 @@ padding: 2% 7%;
   position: absolute;
   width: 14px;
   height: 4px;
-  background: #000000;
+  background: #ce8080;
   transform: skewX(50deg);
   transition: .4s linear;
 
@@ -245,7 +245,7 @@ left: 80%;
 /*Footer Section*/
 #contact {
   background-color: #fff;
-  color: #000000;
+  color: #ce8080;
   text-align: center;
 
 }
@@ -255,7 +255,7 @@ left: 80%;
   
 }
 #footer {
-  background-color: #ff0000;
+  background-color: #ce8080;
   color: #fff;
   text-align: center;
 }
@@ -278,16 +278,51 @@ left: 80%;
 
 /*Booking Section*/
 #bookings{
- background-color: #fff;
+ background-color: #ce8080;
 }
 .fa-phone, .fa-map-marker-alt, .fa-envelope 
 {
-  color: #ff0000;
+  color: #ce8080;
 }
 .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,0,0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 .navbar-toggler {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,0,0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.big-banner {
+  background-image: url('../images/IMG-20200717-WA0013.jpg');
+  background-size: 50%;
+  
+}
+.big-banner2 {
+  background-image: url('../images/IMG-20200717-WA0012.jpg');
+  
+  
+}
+.big-banner3 {
+  background-image: url('../images/IMG-20200717-WA0009.jpg');
+  
+  
+}
+.big-banner4 {
+  background-image: url('../images/IMG-20200717-WA0011.jpg');
+  
+  
+}
+.big-banner5 {
+  background-image: url('../images/IMG-20200717-WA0006.jpg');
+  
+  
+}
+.big-banner6 {
+  background-image: url('../images/IMG-20200717-WA0008.jpg');
+  
+  
+}
+.big-banner7 {
+  background-image: url('../images/IMG-20200717-WA0010.jpg');
+  
+  
 }
 
